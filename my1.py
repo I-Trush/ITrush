@@ -9,4 +9,4 @@ def funcx():
     func1()
 
 
-func1(6)
+func1(9)
