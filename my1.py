@@ -7,6 +7,6 @@ def func1(a):
 
 def funcx():
     func1()
-
+print('test3')
 
 func1(9)
