@@ -10,3 +10,6 @@ def funcx():
 print('test3')
 
 func1(9)
+
+for i in range(1,9):
+    print(i)
